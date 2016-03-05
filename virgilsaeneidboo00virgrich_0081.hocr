@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./virgilsaeneidboo00virgrich_0081.png"; bbox 0 0 2148 3204; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 148 204 1832 2638">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 148 204 1832 2638">
+     <span class='ocr_line' id='line_1_1' title="bbox 148 204 1832 2638"><span class='ocrx_word' id='word_1_1' title='bbox 148 204 1832 2638; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 678 2645 1345 2689">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 678 2645 1345 2689">
+     <span class='ocr_line' id='line_1_2' title="bbox 678 2645 1345 2689; baseline -0.018 0"><span class='ocrx_word' id='word_1_2' title='bbox 678 2654 774 2689; x_wconf 80' lang='lat' dir='ltr'>F1G.</span> <span class='ocrx_word' id='word_1_3' title='bbox 794 2652 830 2687; x_wconf 89' lang='lat'>5.</span> <span class='ocrx_word' id='word_1_4' title='bbox 883 2649 1084 2686; x_wconf 76' lang='lat' dir='ltr'>JUPITER</span> <span class='ocrx_word' id='word_1_5' title='bbox 1110 2645 1345 2682; x_wconf 81' lang='lat' dir='ltr'>OTRICOLI.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

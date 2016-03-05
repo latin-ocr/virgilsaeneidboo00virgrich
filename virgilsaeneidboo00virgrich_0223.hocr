@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./virgilsaeneidboo00virgrich_0223.png"; bbox 0 0 2148 3204; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 518 2949 689 2983">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 518 2949 689 2983">
+     <span class='ocr_line' id='line_1_1' title="bbox 518 2949 689 2983; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 518 2950 609 2983; x_wconf 57' lang='grc' dir='ltr'>ἳῶ.</span> <span class='ocrx_word' id='word_1_2' title='bbox 632 2949 689 2982; x_wconf 42' lang='lat' dir='ltr'>mm.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 340 460 1757 2832">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 340 460 1757 2832">
+     <span class='ocr_line' id='line_1_2' title="bbox 340 460 1757 2832; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 340 460 1757 2832; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 744 2940 1474 2981">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 744 2940 1474 2981">
+     <span class='ocr_line' id='line_1_3' title="bbox 744 2940 1474 2981; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 744 2947 929 2981; x_wconf 61' lang='lat' dir='ltr'>wwozmm</span> <span class='ocrx_word' id='word_1_5' title='bbox 958 2944 1138 2979; x_wconf 43' lang='lat' dir='ltr'>mammeam</span> <span class='ocrx_word' id='word_1_6' title='bbox 1166 2950 1222 2976; x_wconf 56' lang='lat' dir='ltr'>om„</span> <span class='ocrx_word' id='word_1_7' title='bbox 1249 2950 1278 2975; x_wconf 60' lang='grc' dir='ltr'>»ν</span> <span class='ocrx_word' id='word_1_8' title='bbox 1305 2940 1474 2974; x_wconf 56' lang='grc' dir='ltr'>ωοκωω.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

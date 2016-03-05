@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./virgilsaeneidboo00virgrich_0548.png"; bbox 0 0 2148 3204; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2009 1856 2045 2025">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2009 1856 2045 2025">
+     <span class='ocr_line' id='line_1_1' title="bbox 2009 1856 2045 2025; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 2009 1931 2045 2025; x_wconf 73' lang='lat' dir='ltr'>FIG.</span> <span class='ocrx_word' id='word_1_2' title='bbox 2010 1856 2044 1916; x_wconf 70' lang='lat'>(55.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 320 398 1960 2696">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 320 398 1960 2696">
+     <span class='ocr_line' id='line_1_2' title="bbox 320 398 1960 2696; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 320 398 1960 2696; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2001 1056 2043 1803">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2001 1056 2043 1803">
+     <span class='ocr_line' id='line_1_3' title="bbox 2001 1056 2043 1803; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 2008 1593 2043 1803; x_wconf 71' lang='lat' dir='ltr'>THESEUS</span> <span class='ocrx_word' id='word_1_5' title='bbox 2015 1470 2043 1566; x_wconf 83' lang='lat' dir='ltr'>AND</span> <span class='ocrx_word' id='word_1_6' title='bbox 2016 1349 2042 1443; x_wconf 66' lang='lat' dir='ltr'>&#39;rme</span> <span class='ocrx_word' id='word_1_7' title='bbox 2001 1056 2041 1321; x_wconf 69' lang='grc' dir='ltr'><strong>ΜιΝοΤΑυκ.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
